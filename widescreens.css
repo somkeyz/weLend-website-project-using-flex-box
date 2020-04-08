@@ -1,0 +1,45 @@
+/* body{
+  display: none;
+  
+} */
+ 
+/* info2-styling */
+.info2-container{
+  background-color: #B8B5B5;
+  height: 130vh;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  height: 100%;
+}
+.info2-container .box2{
+  margin: 2rem;
+}
+.info2-container .email-form{
+  padding-bottom: none;
+}
+.email-form{
+  width: 50vw;
+  padding: 1.5rem 0rem;
+  display: flex;
+}
+.e-address{
+  padding: 0px 30px;
+}
+.info2-container p {
+  line-height: 2rem;
+  padding: 0px;
+  padding-top: 0.75rem;
+}
+
+/* contact-us */
+.contact-form{
+  display: flex;
+  flex-direction: column;
+  color: white;
+  background-color: #03a5c9;
+  max-width: 90vw;
+  margin: 40px auto;
+  padding: 15px;
+}
